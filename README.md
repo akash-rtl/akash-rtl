@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
-<h3 align="center">M.Tech VLSI Design @ IIT Ropar | Bridging Mechatronics & Digital Silicon</h3>
+<h3 align="center">M.Tech VLSI Design @ IIT Ropar | Digital IC Design & Computer Architecture</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/akashmishravlsi">
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing my **M.Tech in Microelectronics and VLSI Design** at **IIT Ropar**.
-- ⚙️ Background in **Mechatronics Engineering**, bringing a strong foundation in embedded systems, hardware-software co-design, and IoT infrastructure.
+- ⚙️ Deeply passionate about **Digital Logic Design, Hardware-Software Co-design, and Embedded Architectures**.
 - 🎯 **Current Focus:** RTL Design, Full-Custom IC Layout, and engineering a single-cycle RV32I RISC-V core.
 - 🚀 **Recently Completed:** An intensive RTL-to-GDSII flow program encompassing hardware modeling, synthesis, and physical layout.
 - ⚡ **When I'm offline:** You can find me speedcubing, logging miles on a distance run, or immersed in a good book.
