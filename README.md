@@ -45,7 +45,11 @@
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-rtl&show_icons=true&theme=radical&hide_border=true" alt="Akash's GitHub Stats" />
-</p>
+### 🚀 Featured Projects
+- **[Verilog Core Concepts](https://github.com/akash-rtl/verilog-core-concepts):** A comprehensive portfolio of digital logic models, FSMs, and core architectures developed and verified using Verilog HDL and GTKWave.
+- **IoT Intruder Detection System:** A real-time security pipeline built with ESP32-CAM, PIR sensors, and C/C++ firmware, integrating a Telegram API for instant photo alerts.
+- **[In Progress] Single-Cycle RV32I Core:** Architecting the datapath and control unit for a custom 32-bit RISC-V processor.
+
+### 📖 Currently Exploring
+- Advanced digital design patterns and CMOS Integrated Circuit methodologies.
+- *Computer Organization and Design RISC-V Edition* by Patterson and Hennessy.
